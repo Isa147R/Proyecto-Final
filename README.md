@@ -25,5 +25,3 @@ teléfono y dirección).
 • Mostrar la cantidad total de contactos en la libreta.
 ### ArbolBTS_Letra
 • Mostrar los contactos cuyos nombres comienzan con una letra específica.
-### ArbolBTS_Copia
-• Realizar una copia de seguridad de la libreta de contactos en un archivo de texto.
