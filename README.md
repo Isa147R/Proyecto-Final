@@ -8,3 +8,5 @@ El propósito principal de esta rama es diseñar e implementar las estructuras d
 En esta rama, encontrarás implementaciones detalladas de las siguientes estructuras de datos en C++:
 
 Copia Seguridad
+
+Cola Copia Seguridad
