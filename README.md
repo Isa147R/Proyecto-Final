@@ -1,6 +1,10 @@
-# Proyecto-Final
-Este repositorio en C++ presenta una libreta de contactos eficiente, usando árboles de búsqueda, listas enlazadas y colas. Almacena nombres, números, redes sociales, iconos y direcciones. Con operaciones de ordenamiento y una interfaz intuitiva, facilita la gestión de contactos.
+# Introducción
+¡Bienvenido a la rama de Vector Indices de nuestro proyecto en C++! En esta sección, nos enfocamos en implementar las operaciones esenciales que permitirán una gestión eficaz de la libreta de contactos, utilizando las sólidas estructuras de datos previamente definidas en la rama de Estructuras.
 
-# Planeacion Metodologias Agiles 
+# Propósito
+El propósito principal de esta rama es expandir y mejorar las funcionalidades de la libreta de contactos. Aprovechamos las estructuras de datos establecidas para implementar operaciones clave como agregar, buscar y eliminar contactos.
 
-https://isabela03.atlassian.net/jira/software/projects/PFA/boards/1
+# ¿Qué Encontrarás Aquí?
+En esta rama, encontrarás implementaciones detalladas de las siguientes funcionalidades en C++:
+
+Mapa Indices :
