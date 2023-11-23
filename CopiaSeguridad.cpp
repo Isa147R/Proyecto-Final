@@ -435,7 +435,7 @@ int main() {
 
     std::cout<<std::endl;
 
-    arbol.guardarEnArchivo("libreta_backup.txt");
+    arbol.guardarEnArchivo("libreta_copia_seguridad.txt");
 
     return 0;
 }
