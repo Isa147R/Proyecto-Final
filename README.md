@@ -1,6 +1,10 @@
-# Proyecto-Final
-Este repositorio en C++ presenta una libreta de contactos eficiente, usando árboles de búsqueda, listas enlazadas y colas. Almacena nombres, números, redes sociales, iconos y direcciones. Con operaciones de ordenamiento y una interfaz intuitiva, facilita la gestión de contactos.
+# Introducción
+Bienvenido a la rama de Copia Seguridad de nuestro proyecto en C++. Esta sección del repositorio se enfoca en la implementación de las estructuras de datos fundamentales que formarán la columna vertebral de nuestra libreta de contactos eficiente.
 
-# Planeacion Metodologias Agiles 
+## Propósito
+El propósito principal de esta rama es diseñar e implementar las estructuras de datos esenciales para organizar y almacenar la información de los contactos de manera eficiente. Estamos comprometidos en proporcionar una base sólida que permita operaciones eficientes como búsqueda, inserción y ordenamiento en la gestión de contactos.
 
-https://isabela03.atlassian.net/jira/software/projects/PFA/boards/1
+### ¿Qué Encontrarás Aquí?
+En esta rama, encontrarás implementaciones detalladas de las siguientes estructuras de datos en C++:
+
+Copia Seguridad
